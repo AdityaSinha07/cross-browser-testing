@@ -64,8 +64,8 @@ This repository contains automated test scripts for performing cross-browser tes
 
 ## Author
 
-- **Your Name**  
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Aditya Sinha 
+- GitHub: [Your GitHub Profile](https://github.com/AdityaSinha07)
 
 ## License
 
