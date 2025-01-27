@@ -64,7 +64,7 @@ This repository contains automated test scripts for performing cross-browser tes
 
 ## Author
 
-- Aditya Sinha 
+- Aditya Sinha and Syed Ubaid
 - GitHub: [Your GitHub Profile](https://github.com/AdityaSinha07)
 
 ## License
